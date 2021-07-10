@@ -1,0 +1,26 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+[application]
+
+config/name="ExtraNodesCS"
+config/description="Some Extra Nodes (C# Version)"
+run/main_scene="res://addons/ExtraNodesCS/Demo/ThrowCastTest2D.tscn"
+config/icon="res://addons/ExtraNodesCS/ExtraNodesCS.png"
+
+[display]
+
+window/size/width=1280
+window/size/height=720
+window/size/resizable=false
+
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/ExtraNodesCS/plugin.cfg" )
