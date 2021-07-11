@@ -1,8 +1,10 @@
-
-/External           export-ignore
-/Screenshots        export-ignore
-/.editorconfig      export-ignore
-/.gitattributes     export-ignore
-/.gitignore         export-ignore
-/README.md          export-ignore
-/project.godot      export-ignore
+/.vscode             export-ignore
+/External            export-ignore
+/Screenshots         export-ignore
+/.editorconfig       export-ignore
+/.gitattributes      export-ignore
+/.gitignore          export-ignore
+/README.md           export-ignore
+/project.godot       export-ignore
+/ExtraNodesCS.csproj export-ignore
+/ExtraNodesCS.sln    export-ignore
